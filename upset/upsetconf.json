@@ -1,5 +1,5 @@
 {
-	"file": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRpcNLSkkrZdNkWM0JdZ2aFCManO2DCuvPTp-hr-l2E2HqphK96kLQrU5T9dClIFGODPKbgJ89VN52_/pub?output=csv",
+	"file": "https://raw.githubusercontent.com/rduyme/test-data/master/upset/esrfsourcecoverage20172018.csv",
 	"name": "ESRF coverage",
 	"header": 0,
 	"separator": ";",
